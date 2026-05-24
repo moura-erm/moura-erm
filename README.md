@@ -35,6 +35,4 @@ Lately, I've been dedicating my time to various books and sounds:
 
 > *"What the world needs is examples, not opinions."* 🤔
 
-<br>[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dmourans&theme=ads-juicy-fresh&hide_border=true&date_format=j%2Fn%5B%2FY%5D&locale=en&currStreakNum=DD0000&border=DD0E0E)](https://git.io/streak-stats)<br>
-
 <br>[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=moura-erm&theme=ads-juicy-fresh&hide_border=true&date_format=j%2Fn%5B%2FY%5D&locale=en&currStreakNum=DD0000&border=DD0E0E)](https://git.io/streak-stats)<br>
