@@ -1,7 +1,6 @@
 ### Hello 👋, Welcome to my GitHub!
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deividmoura/)](https://www.linkedin.com/in/deividmoura/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/deividmoura)](https://twitter.com/deividmoura)
 
 💬 I am passionate about life and good reflections. Currently, I work leading and developing software projects, integrating data, and automating solutions.
 
