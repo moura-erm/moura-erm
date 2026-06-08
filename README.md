@@ -31,6 +31,7 @@ Lately, I've been dedicating my time to various books and sounds:
 - 📖 Sapiens: A Brief History of Humankind (Yuval Noah Harari)
 - 📖 The Autobiography of Martin Luther King, Jr. (Clayborne Carson)
 - 🎧 Facção Central - Direto do Campo de Extermínio
+- 🎧 Eduardo taddeo - Traidor
 
 > *"What the world needs is examples, not opinions."* 🤔
 
